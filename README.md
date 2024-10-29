@@ -92,7 +92,7 @@ Este proyecto ayuda a mejorar la eficiencia operativa y proporciona un marco esc
 ## Colaboradores
 - **Verónica Villagra**  
   - Analista de datos
-  - **LinkedIn**: [Verónica Villagra](https://www.linkedin.com/in/veronica-villagra)
+  - **LinkedIn**: [Verónica Villagra](https://www.linkedin.com/in/ver%C3%B3nica-villagra-99a19b2a5/)
 
 - **María de los Angeles Páez**  
   - Analista de datos
